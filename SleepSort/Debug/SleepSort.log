@@ -1,0 +1,6 @@
+﻿  SleepSort.cpp
+G:\Asuran\Documents\Visual Studio 2019\Projects\SleepSort\SleepSort\SleepSort.h(8,53): warning C4227: anacronismo usado: qualificadores na referência são ignorados
+G:\Asuran\Documents\Visual Studio 2019\Projects\SleepSort\SleepSort\SleepSort.cpp(6,62): warning C4227: anacronismo usado: qualificadores na referência são ignorados
+G:\Asuran\Documents\Visual Studio 2019\Projects\SleepSort\SleepSort\SleepSort.cpp(10,20): warning C4018: '<': incompatibilidade de signed/unsigned
+G:\Asuran\Documents\Visual Studio 2019\Projects\SleepSort\SleepSort\SleepSort.cpp(16,20): warning C4018: '<': incompatibilidade de signed/unsigned
+  SleepSort.vcxproj -> G:\Asuran\Documents\Visual Studio 2019\Projects\SleepSort\Debug\SleepSort.exe

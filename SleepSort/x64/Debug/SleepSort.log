@@ -1,0 +1,3 @@
+﻿  main.cpp
+G:\Asuran\Documents\Visual Studio 2019\Projects\SleepSort\SleepSort\SleepSort.h(10,53): warning C4227: anacronismo usado: qualificadores na referência são ignorados
+  SleepSort.vcxproj -> G:\Asuran\Documents\Visual Studio 2019\Projects\SleepSort\x64\Debug\SleepSort.exe
